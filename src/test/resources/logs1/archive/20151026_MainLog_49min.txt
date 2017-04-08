@@ -1,0 +1,118 @@
+TOTAL=49min
+****** FIREFOX ************************************************************
+2015/10/26 16:43:39 : 1. Add Users to Organization(20)
+2015/10/26 16:43:43 : 2. Remove Users from Organization(10)
+2015/10/26 16:44:19 : 3. Collections Creation(10)
+2015/10/26 16:44:43 : 4. Collections Archiving(10)
+2015/10/26 16:44:52 : 5. Collections Removing(5)
+2015/10/26 16:44:59 : 5a. Collections Renaming(1)
+2015/10/26 16:45:00 : 6a. Widgets Collapsed Creation(5)/Removal(1)/Archive(2)/Unarchive(1). Fixed Color 
+2015/10/26 16:45:45 : 6b. Widgets Expanded Creation(10)/Removal(4)/Archive(2)/Unarchive(1). Random 
+2015/10/26 16:46:50 : 6c. Widgets Renaming
+2015/10/26 16:46:50 : 6d. Widgets Archiving(2)
+2015/10/26 16:46:50 : 7. Columns Creation(3)
+2015/10/26 16:47:18 : 8a. Add calendar board
+2015/10/26 16:49:37 : 8b. Cards Creation(4*8) for Board and Idea
+2015/10/26 16:50:23 : 9. Card Pop-Up Operations Block
+2015/10/26 16:50:23 : a. Delete Cards
+2015/10/26 16:50:28 : b. Archive Cards
+2015/10/26 16:50:36 : c. Add many new tags
+2015/10/26 16:51:51 : d. Add many tasks
+2015/10/26 16:53:32 : e. Add many users
+2015/10/26 16:54:42 : f. Add dates
+2015/10/26 16:54:59 : g. Add description
+2015/10/26 16:55:39 : h. Add comments
+2015/10/26 16:56:30 : i. Add files (PNG,TXT)
+2015/10/26 16:57:15 : 10. TODO -Operations Block
+2015/10/26 16:57:15 : a. Clearing - TODO Remove all Unfinished Cards
+2015/10/26 16:58:00 : b. Clearing - TODO Remove all Finished Cards
+2015/10/26 16:58:30 : c. TODO Create Finished Cards(10)
+2015/10/26 16:58:46 : c. TODO Remove all Finished Cards
+2015/10/26 16:59:27 : d. TODO Create Unfinished Cards(10)
+2015/10/26 16:59:37 : a. TODO Remove all Unfinished Cards
+2015/10/26 17:00:42 : d. TODO Create Unfinished Cards(10)
+2015/10/26 17:00:52 : e. TODO Cards Marking as Finished(10)
+2015/10/26 17:00:58 : f. TODO Create Finished Cards(20)
+2015/10/26 17:01:14 : g. TODO Create Unfinished Cards(20)
+****** Time: 17.0 minutes ************************************************************
+*** Save Screenshot ***
+Starting ChromeDriver 2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1) on port 37904
+Only local connections are allowed.
+****** CHROME ************************************************************
+2015/10/26 17:01:39 : 1. Add Users to Organization(20)
+2015/10/26 17:01:41 : 2. Remove Users from Organization(10)
+2015/10/26 17:02:03 : 3. Collections Creation(10)
+2015/10/26 17:02:14 : 4. Collections Archiving(10)
+2015/10/26 17:02:17 : 5. Collections Removing(5)
+2015/10/26 17:02:21 : 5a. Collections Renaming(1)
+2015/10/26 17:02:21 : 6a. Widgets Collapsed Creation(5)/Removal(1)/Archive(2)/Unarchive(1). Fixed Color 
+2015/10/26 17:02:47 : 6b. Widgets Expanded Creation(10)/Removal(4)/Archive(2)/Unarchive(1). Random 
+2015/10/26 17:03:25 : 6c. Widgets Renaming
+2015/10/26 17:03:25 : 6d. Widgets Archiving(2)
+2015/10/26 17:03:25 : 7. Columns Creation(3)
+2015/10/26 17:03:35 : 8a. Add calendar board
+2015/10/26 17:04:35 : 8b. Cards Creation(4*8) for Board and Idea
+2015/10/26 17:04:54 : 9. Card Pop-Up Operations Block
+2015/10/26 17:04:54 : a. Delete Cards
+2015/10/26 17:04:55 : b. Archive Cards
+2015/10/26 17:04:59 : c. Add many new tags
+2015/10/26 17:05:39 : d. Add many tasks
+2015/10/26 17:06:29 : e. Add many users
+2015/10/26 17:07:31 : f. Add dates
+2015/10/26 17:07:37 : g. Add description
+2015/10/26 17:08:09 : h. Add comments
+2015/10/26 17:08:23 : i. Add files (PNG,TXT)
+2015/10/26 17:09:02 : 10. TODO -Operations Block
+2015/10/26 17:09:02 : a. Clearing - TODO Remove all Unfinished Cards
+2015/10/26 17:10:02 : b. Clearing - TODO Remove all Finished Cards
+2015/10/26 17:10:31 : c. TODO Create Finished Cards(10)
+2015/10/26 17:10:44 : c. TODO Remove all Finished Cards
+2015/10/26 17:11:08 : d. TODO Create Unfinished Cards(10)
+2015/10/26 17:11:16 : a. TODO Remove all Unfinished Cards
+2015/10/26 17:12:05 : d. TODO Create Unfinished Cards(10)
+2015/10/26 17:12:13 : e. TODO Cards Marking as Finished(10)
+2015/10/26 17:12:19 : f. TODO Create Finished Cards(20)
+2015/10/26 17:12:32 : g. TODO Create Unfinished Cards(20)
+****** Time: 11.0 minutes ************************************************************
+*** Save Screenshot ***
+Started InternetExplorerDriver server (32-bit)
+2.47.0.0
+Listening on port 11082
+****** IE11 ************************************************************
+2015/10/26 17:12:52 : 1. Add Users to Organization(20)
+2015/10/26 17:12:58 : 2. Remove Users from Organization(10)
+2015/10/26 17:13:36 : 3. Collections Creation(10)
+2015/10/26 17:14:09 : 4. Collections Archiving(10)
+2015/10/26 17:14:22 : 5. Collections Removing(5)
+2015/10/26 17:14:31 : 5a. Collections Renaming(1)
+2015/10/26 17:14:34 : 6a. Widgets Collapsed Creation(5)/Removal(1)/Archive(2)/Unarchive(1). Fixed Color 
+2015/10/26 17:15:46 : 6b. Widgets Expanded Creation(10)/Removal(4)/Archive(2)/Unarchive(1). Random 
+2015/10/26 17:17:24 : 6c. Widgets Renaming
+2015/10/26 17:17:24 : 6d. Widgets Archiving(2)
+2015/10/26 17:17:24 : 7. Columns Creation(3)
+2015/10/26 17:18:09 : 8a. Add calendar board
+2015/10/26 17:20:19 : 8b. Cards Creation(4*8) for Board and Idea
+2015/10/26 17:21:35 : 9. Card Pop-Up Operations Block
+2015/10/26 17:21:35 : a. Delete Cards
+2015/10/26 17:21:38 : b. Archive Cards
+2015/10/26 17:21:45 : c. Add many new tags
+2015/10/26 17:22:55 : d. Add many tasks
+2015/10/26 17:24:33 : e. Add many users
+2015/10/26 17:25:49 : f. Add dates
+2015/10/26 17:26:02 : g. Add description
+2015/10/26 17:27:20 : h. Add comments
+2015/10/26 17:28:25 : i. Add files (PNG,TXT)
+2015/10/26 17:29:10 : 10. TODO -Operations Block
+2015/10/26 17:29:10 : a. Clearing - TODO Remove all Unfinished Cards
+2015/10/26 17:30:27 : b. Clearing - TODO Remove all Finished Cards
+2015/10/26 17:31:14 : c. TODO Create Finished Cards(10)
+2015/10/26 17:31:34 : c. TODO Remove all Finished Cards
+2015/10/26 17:32:13 : d. TODO Create Unfinished Cards(10)
+2015/10/26 17:32:28 : a. TODO Remove all Unfinished Cards
+2015/10/26 17:33:30 : d. TODO Create Unfinished Cards(10)
+2015/10/26 17:33:45 : e. TODO Cards Marking as Finished(10)
+2015/10/26 17:33:52 : f. TODO Create Finished Cards(20)
+2015/10/26 17:34:13 : g. TODO Create Unfinished Cards(20)
+****** Time: 21.0 minutes ************************************************************
+*** Save Screenshot ***
+Overall Tests Result = true

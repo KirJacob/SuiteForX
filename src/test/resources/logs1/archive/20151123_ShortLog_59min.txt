@@ -1,0 +1,129 @@
+"C:\Program Files\Java\jdk1.8.0_25\bin\java" -Didea.launcher.port=7532 "-Didea.launcher.bin.path=C:\Program Files (x86)\JetBrains\IntelliJ IDEA 14.1.4\bin" -Dfile.encoding=UTF-8 -classpath "C:\Program Files\Java\jdk1.8.0_25\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_25\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_25\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_25\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_25\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_25\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_25\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_25\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_25\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_25\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_25\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_25\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_25\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_25\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_25\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_25\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_25\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_25\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_25\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_25\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_25\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_25\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_25\jre\lib\ext\zipfs.jar;C:\AT\HanfotTA\target\test-classes;C:\Users\DELL\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\DELL\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\DELL\.m2\repository\org\seleniumhq\selenium\selenium-java\2.47.1\selenium-java-2.47.1.jar;C:\Users\DELL\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\2.47.1\selenium-edge-driver-2.47.1.jar;C:\Users\DELL\.m2\repository\commons-io\commons-io\2.4\commons-io-2.4.jar;C:\Users\DELL\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\DELL\.m2\repository\org\seleniumhq\selenium\selenium-htmlunit-driver\2.47.1\selenium-htmlunit-driver-2.47.1.jar;C:\Users\DELL\.m2\repository\net\sourceforge\htmlunit\htmlunit\2.17\htmlunit-2.17.jar;C:\Users\DELL\.m2\repository\xalan\xalan\2.7.2\xalan-2.7.2.jar;C:\Users\DELL\.m2\repository\xalan\serializer\2.7.2\serializer-2.7.2.jar;C:\Users\DELL\.m2\repository\commons-collections\commons-collections\3.2.1\commons-collections-3.2.1.jar;C:\Users\DELL\.m2\repository\org\apache\commons\commons-lang3\3.4\commons-lang3-3.4.jar;C:\Users\DELL\.m2\repository\org\apache\httpcomponents\httpmime\4.4.1\httpmime-4.4.1.jar;C:\Users\DELL\.m2\repository\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;C:\Users\DELL\.m2\repository\net\sourceforge\htmlunit\htmlunit-core-js\2.17\htmlunit-core-js-2.17.jar;C:\Users\DELL\.m2\repository\xerces\xercesImpl\2.11.0\xercesImpl-2.11.0.jar;C:\Users\DELL\.m2\repository\xml-apis\xml-apis\1.4.01\xml-apis-1.4.01.jar;C:\Users\DELL\.m2\repository\net\sourceforge\nekohtml\nekohtml\1.9.22\nekohtml-1.9.22.jar;C:\Users\DELL\.m2\repository\net\sourceforge\cssparser\cssparser\0.9.16\cssparser-0.9.16.jar;C:\Users\DELL\.m2\repository\org\w3c\css\sac\1.3\sac-1.3.jar;C:\Users\DELL\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\DELL\.m2\repository\org\eclipse\jetty\websocket\websocket-client\9.2.11.v20150529\websocket-client-9.2.11.v20150529.jar;C:\Users\DELL\.m2\repository\org\eclipse\jetty\jetty-util\9.2.11.v20150529\jetty-util-9.2.11.v20150529.jar;C:\Users\DELL\.m2\repository\org\eclipse\jetty\jetty-io\9.2.11.v20150529\jetty-io-9.2.11.v20150529.jar;C:\Users\DELL\.m2\repository\org\eclipse\jetty\websocket\websocket-common\9.2.11.v20150529\websocket-common-9.2.11.v20150529.jar;C:\Users\DELL\.m2\repository\org\eclipse\jetty\websocket\websocket-api\9.2.11.v20150529\websocket-api-9.2.11.v20150529.jar;C:\Users\DELL\.m2\repository\org\apache\httpcomponents\httpclient\4.4.1\httpclient-4.4.1.jar;C:\Users\DELL\.m2\repository\org\apache\httpcomponents\httpcore\4.4.1\httpcore-4.4.1.jar;C:\Users\DELL\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\2.47.1\selenium-firefox-driver-2.47.1.jar;C:\Users\DELL\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\2.47.1\selenium-safari-driver-2.47.1.jar;C:\Users\DELL\.m2\repository\org\seleniumhq\selenium\selenium-support\2.47.1\selenium-support-2.47.1.jar;C:\Users\DELL\.m2\repository\org\webbitserver\webbit\0.4.14\webbit-0.4.14.jar;C:\Users\DELL\.m2\repository\io\netty\netty\3.5.2.Final\netty-3.5.2.Final.jar;C:\Users\DELL\.m2\repository\org\seleniumhq\selenium\selenium-leg-rc\2.47.1\selenium-leg-rc-2.47.1.jar;C:\Users\DELL\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\2.47.1\selenium-chrome-driver-2.47.1.jar;C:\Users\DELL\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\2.47.1\selenium-remote-driver-2.47.1.jar;C:\Users\DELL\.m2\repository\cglib\cglib-nodep\2.1_3\cglib-nodep-2.1_3.jar;C:\Users\DELL\.m2\repository\com\google\code\gson\gson\2.3.1\gson-2.3.1.jar;C:\Users\DELL\.m2\repository\org\seleniumhq\selenium\selenium-api\2.47.1\selenium-api-2.47.1.jar;C:\Users\DELL\.m2\repository\com\google\guava\guava\18.0\guava-18.0.jar;C:\Users\DELL\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\2.47.1\selenium-ie-driver-2.47.1.jar;C:\Users\DELL\.m2\repository\net\java\dev\jna\jna\4.1.0\jna-4.1.0.jar;C:\Users\DELL\.m2\repository\net\java\dev\jna\jna-platform\4.1.0\jna-platform-4.1.0.jar;C:\Program Files (x86)\JetBrains\IntelliJ IDEA 14.1.4\lib\idea_rt.jar" com.intellij.rt.execution.application.AppMain ShortRunner
+****** FIREFOX.sh ************************************************************
+*** ShortTest - USS Endeavor5 ***
+2015/11/23 20:44:37 : 1. Users Block
+2015/11/23 20:44:37 : 1a. Remove All users and Add Four Users to Organization(R+4)
+2015/11/23 20:45:33 : 1b. Delete chosen User
+Waiting... 1.0Seconds
+2015/11/23 20:45:37 : 1c. Change Users Permissions to Administrator/Full Member and Restricted
+2015/11/23 20:45:47 : 2. Collections Creation(2)
+2015/11/23 20:45:51 : 3. Collections Archiving(2)
+2015/11/23 20:46:02 : 4. Collections Removing(2)
+2015/11/23 20:46:16 : 5. Collections Renaming(1)
+2015/11/23 20:46:16 : 6a. Widgets Collapsed Creation(5)/Removal(1)/Archive(2)/Unarchive(1). Fixed Color
+2015/11/23 20:48:25 : 6b. Widgets Expanded Creation(10)/Removal(4)/Archive(2)/Unarchive(1). Random
+2015/11/23 20:50:29 : 6c. Widgets Renaming
+2015/11/23 20:50:29 : 6d. Widgets Archiving(2)
+2015/11/23 20:50:29 : 7. Columns Creation(3)
+2015/11/23 20:52:06 : 8b. Cards Creation(3*5) for Board and Idea
+2015/11/23 20:54:10 : 9. Card Pop-Up Operations Block
+2015/11/23 20:54:10 : a. Delete Cards
+2015/11/23 20:54:17 : b. Archive Cards
+2015/11/23 20:54:25 : c. Add many new tags
+2015/11/23 20:54:58 : d. Add many tasks
+2015/11/23 20:56:24 : e. Add many users
+2015/11/23 20:56:48 : f. Add dates
+2015/11/23 20:57:26 : g. Add description
+2015/11/23 20:58:36 : h. Add comments
+2015/11/23 20:59:02 : i. Add files (PNG,TXT)
+2015/11/23 21:00:14 : 10. TODO -Operations Block
+2015/11/23 21:00:14 : a. Clearing - TODO Remove all Unfinished Cards
+2015/11/23 21:00:45 : b. Clearing - TODO Remove all Finished Cards
+2015/11/23 21:01:31 : c. TODO Create Finished Cards(3)
+2015/11/23 21:01:44 : c. TODO Remove all Finished Cards
+2015/11/23 21:02:23 : d. TODO Create Unfinished Cards(10)
+2015/11/23 21:02:31 : a. TODO Remove all Unfinished Cards
+2015/11/23 21:03:14 : d. TODO Create Unfinished Cards(3)
+2015/11/23 21:03:23 : e. TODO Cards Marking as Finished(10)
+2015/11/23 21:03:26 : f. TODO Create Finished Cards(3)
+2015/11/23 21:03:37 : g. TODO Create Unfinished Cards(3)
+****** Time: 19.0 minutes || 1148.0 seconds ************************************************************
+*** Save Screenshot ***
+Starting ChromeDriver 2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1) on port 15972
+Only local connections are allowed.
+****** CHROME.sh. ************************************************************
+*** ShortTest - USS Endeavor5 ***
+2015/11/23 21:04:26 : 1. Users Block
+2015/11/23 21:04:26 : 1a. Remove All users and Add Four Users to Organization(R+4)
+2015/11/23 21:05:09 : 1b. Delete chosen User
+Waiting... 0.0Seconds
+2015/11/23 21:05:12 : 1c. Change Users Permissions to Administrator/Full Member and Restricted
+2015/11/23 21:05:20 : 2. Collections Creation(2)
+2015/11/23 21:05:22 : 3. Collections Archiving(2)
+2015/11/23 21:05:29 : 4. Collections Removing(2)
+2015/11/23 21:05:37 : 5. Collections Renaming(1)
+2015/11/23 21:05:37 : 6a. Widgets Collapsed Creation(5)/Removal(1)/Archive(2)/Unarchive(1). Fixed Color
+2015/11/23 21:06:45 : 6b. Widgets Expanded Creation(10)/Removal(4)/Archive(2)/Unarchive(1). Random
+2015/11/23 21:07:46 : 6c. Widgets Renaming
+2015/11/23 21:07:46 : 6d. Widgets Archiving(2)
+2015/11/23 21:07:46 : 7. Columns Creation(3)
+2015/11/23 21:08:25 : 8b. Cards Creation(3*5) for Board and Idea
+2015/11/23 21:09:18 : 9. Card Pop-Up Operations Block
+2015/11/23 21:09:18 : a. Delete Cards
+2015/11/23 21:09:20 : b. Archive Cards
+2015/11/23 21:09:25 : c. Add many new tags
+2015/11/23 21:09:41 : d. Add many tasks
+2015/11/23 21:10:32 : e. Add many users
+2015/11/23 21:10:44 : f. Add dates
+2015/11/23 21:11:02 : g. Add description
+2015/11/23 21:11:17 : h. Add comments
+2015/11/23 21:11:29 : i. Add files (PNG,TXT)
+2015/11/23 21:12:26 : 10. TODO -Operations Block
+2015/11/23 21:12:26 : a. Clearing - TODO Remove all Unfinished Cards
+2015/11/23 21:12:55 : b. Clearing - TODO Remove all Finished Cards
+2015/11/23 21:13:22 : c. TODO Create Finished Cards(3)
+2015/11/23 21:13:30 : c. TODO Remove all Finished Cards
+2015/11/23 21:13:54 : d. TODO Create Unfinished Cards(10)
+2015/11/23 21:13:59 : a. TODO Remove all Unfinished Cards
+2015/11/23 21:14:28 : d. TODO Create Unfinished Cards(3)
+2015/11/23 21:14:33 : e. TODO Cards Marking as Finished(10)
+2015/11/23 21:14:36 : f. TODO Create Finished Cards(3)
+2015/11/23 21:14:44 : g. TODO Create Unfinished Cards(3)
+****** Time: 10.0 minutes || 622.0 seconds ************************************************************
+*** Save Screenshot ***
+Started InternetExplorerDriver server (32-bit)
+2.47.0.0
+Listening on port 27575
+****** IE11.sh. ************************************************************
+*** ShortTest - USS Endeavor5 ***
+2015/11/23 21:15:21 : 1. Users Block
+2015/11/23 21:15:21 : 1a. Remove All users and Add Four Users to Organization(R+4)
+2015/11/23 21:17:19 : 1b. Delete chosen User
+Waiting... 3.0Seconds
+2015/11/23 21:17:28 : 1c. Change Users Permissions to Administrator/Full Member and Restricted
+2015/11/23 21:17:42 : 2. Collections Creation(2)
+2015/11/23 21:17:48 : 3. Collections Archiving(2)
+2015/11/23 21:18:03 : 4. Collections Removing(2)
+2015/11/23 21:18:22 : 5. Collections Renaming(1)
+2015/11/23 21:18:22 : 6a. Widgets Collapsed Creation(5)/Removal(1)/Archive(2)/Unarchive(1). Fixed Color
+2015/11/23 21:22:25 : 6b. Widgets Expanded Creation(10)/Removal(4)/Archive(2)/Unarchive(1). Random
+2015/11/23 21:26:42 : 6c. Widgets Renaming
+2015/11/23 21:26:42 : 6d. Widgets Archiving(2)
+2015/11/23 21:26:42 : 7. Columns Creation(3)
+2015/11/23 21:30:17 : 8b. Cards Creation(3*5) for Board and Idea
+2015/11/23 21:34:44 : 9. Card Pop-Up Operations Block
+2015/11/23 21:34:44 : a. Delete Cards
+2015/11/23 21:34:51 : b. Archive Cards
+2015/11/23 21:35:03 : c. Add many new tags
+2015/11/23 21:35:56 : d. Add many tasks
+2015/11/23 21:37:40 : e. Add many users
+2015/11/23 21:38:32 : f. Add dates
+2015/11/23 21:39:17 : g. Add description
+2015/11/23 21:39:56 : h. Add comments
+2015/11/23 21:40:35 : i. Add files (PNG,TXT)
+2015/11/23 21:41:56 : 10. TODO -Operations Block
+2015/11/23 21:41:56 : a. Clearing - TODO Remove all Unfinished Cards
+2015/11/23 21:42:42 : b. Clearing - TODO Remove all Finished Cards
+2015/11/23 21:43:31 : c. TODO Create Finished Cards(3)
+2015/11/23 21:43:46 : c. TODO Remove all Finished Cards
+2015/11/23 21:44:27 : d. TODO Create Unfinished Cards(10)
+2015/11/23 21:44:39 : a. TODO Remove all Unfinished Cards
+2015/11/23 21:45:24 : d. TODO Create Unfinished Cards(3)
+2015/11/23 21:45:37 : e. TODO Cards Marking as Finished(10)
+2015/11/23 21:45:41 : f. TODO Create Finished Cards(3)
+2015/11/23 21:45:57 : g. TODO Create Unfinished Cards(3)
+****** Time: 30.0 minutes || 1848.0 seconds ************************************************************
+*** Save Screenshot ***
+Overall Tests Result = true
+
+Process finished with exit code 0

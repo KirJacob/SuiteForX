@@ -1,0 +1,26 @@
+Remove Users
+(//div[contains(@class,'js-share-user-delete-icon')])[1]
+isElementPresent(By.xpath(USER_SECOND_USER_EXIST_XPATH), driver)
+//---------------------------------------------------------------------------------------------------
+// Big Boards Creation
+// Widget.widgetsCreation(driver,1,"MANY CARDS",WidgetState.EXPANDED,WidgetColor.RED,false,false);
+// Card.cardsFirstBoardGeneration(driver,100,3,false);
+//---------------------------------------------------------------------------------------------------
+(//div[@class="workspace-content workspace-content-tracking mod-scrollable-y"]/div/div[1]
+//*[@class="widget-board-lane js-widgetlane-main"][1]
+//*[@class="js-paged-list-end mod-not-draggable"])[4]
+//---------------------------------------------------------------------------------------------------
+//div[@class="workspace-content workspace-content-tracking mod-scrollable-y"]/div/div[1]
+//*[@class='widget-board-add js-widget-board-add-list js-tap-indication']
+
+--Add-Task--------------------------------------------------------------------------------------------------------------
+(//div[@class='card-task-list-container js-card-task-list js-tap-hold-drag js-tap-indication ui-sortable-handle']/
+child::div[2]/child::div/child::div/child::textarea)[last()]
+------------------------------------------------------------------------------------------------------------------------
+(//div[@class='click-to-edit-cancel js-click-to-edit-cancel-button js-tap-indication'])[last()-1]
+------------------------------------------------------------------------------------------------------------------------
+//div[@class='.app-menu-choice-title'][contains(text(),"Run Tutorial")]
+//div[contains(text(),"Add card")]
+board-column-addcard js-board-column-add js-nav-to js-create-item js-tap-indication js-tap-direct
+//div[@class='board-column-addcard js-board-column-add js-nav-to js-create-item js-tap-indication js-tap-direct']
+//div[@class='tutorial-leave js-tutorial-leave']/parent::div/parent::div/parent::div/parent::div/parent::div/preceding-sibling::div[1]/div/div[1]/div[2]/div/div[2]/div/div/div[2]/div/div/div[3]

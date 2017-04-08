@@ -1,0 +1,5 @@
+package enums;
+
+public enum WidgetColor {
+    DEFAULT, BLUE, GREEN, BROWN, VIOLET, ORANGE, YELLOW, GREY, RED,EMERALD,DARKGREEN,RANDOM;
+}

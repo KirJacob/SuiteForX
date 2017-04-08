@@ -1,0 +1,59 @@
+Release Notes.
+---------------
+390 - Card
+090 - Collection
+150 - Todo
+150 - Users
+260 - Widget
+150 - Run
+---------------
+1190 in Total
+
+01.10.2015 Thursday
+    - Rename Board and Page methods
+14.08.2015 Friday
+    - columnsAdding was broken. Xpath for adding columns became constant.
+10.08.2015 Monday
+    - pagesCreation (creation of pages)
+06.08.2015 Thursday
+    - widgetsCreation (improving setting colors, possibility to choose color)
+
+
+
+Ideas for Refactoring
+Create Classes for TODO, Pages etc.. = PageObjects
+Remove all xpath and css locators to constants
+
+
+
+
+Ideas for further tests
+- Creation of Organization with some Name and Template
+- Choose Organization with particular Name
+- Edit Organization
+- Adding All users from the properties to the Organization
+
+- Get List of Organizations for User
+- Calcualte Number of Pages, Widgets for each User Organization
+- Archive Boards
+- Show Archived Boards Check
+
+- Infinite Adding Lanes
+- Adding Cards to TODO List (number of cards)
+- Assign Cards to me with randomizer
+- Delete Widgets. All existed
+- Adding tags (Random names)
+- Add user
+- Adding Tasks
+- Adding Comments
+- Adding Pages (with Names)
+
+Idea for using Java
+- Properties. Move Login and other credentials to properties
+Collapsing All Widgets
+
+
+
+
+
+
